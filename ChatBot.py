@@ -388,7 +388,7 @@ with st.sidebar:
 
     # 更新说明
     st.subheader("更新说明")
-    st.write("- 新增: `DeepSeek-R1` 模型支持。")
+    st.write("- 新增: `DeepSeek-R1` 模型支持")
     st.write("- 预告：后续将增加构建私人知识库(RAG)功能")
 
 # ====================
